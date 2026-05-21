@@ -1,8 +1,14 @@
 # Lawrence Jablonski
 
-Technical Support Engineer at **Consensys (MetaMask)** with 4+ years working at the intersection of support, engineering, and Web3. I specialize in API-driven troubleshooting, blockchain transaction analysis, and building internal tools that make complex investigations faster.
+I'm a Technical Support Engineer at Consensys working on MetaMask, where I help troubleshoot complex Web3 issues and bridge the gap between users, support, and engineering.
 
-Most of the tools I build aren't typical side projects. They're things my team actually uses every day to do their jobs.
+I enjoy building practical tools that make blockchain data easier to understand, including explorers, transaction trackers, support utilities, and small automation projects.
+
+---
+
+## What I Work With
+
+JavaScript, HTML, CSS, Python, REST APIs, blockchain data and Web3 tooling, support operations and technical troubleshooting
 
 
 ---
