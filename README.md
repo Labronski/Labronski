@@ -4,7 +4,6 @@ Technical Support Engineer at **Consensys (MetaMask)** with 4+ years working at 
 
 Most of the tools I build aren't typical side projects — they're things my team actually uses every day to do their jobs.
 
----
 
 ## 🛠️ Projects
 
@@ -18,7 +17,6 @@ Most of the tools I build aren't typical side projects — they're things my tea
 | [Support Conversation Exporter](https://github.com/Labronski/support-conversation-exporter) | Flask app that queries the Intercom API to export support conversations to CSV by date range. |
 | [AI Support Training Generator](https://github.com/Labronski/ai-support-training-generator) | Generates training materials for support agents automatically using Intercom conversation data and GPT-4. |
 
----
 
 ## 💻 Tech
 
@@ -30,14 +28,12 @@ Most of the tools I build aren't typical side projects — they're things my tea
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
----
 
 ## 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
 - Google Data Analytics Professional Certificate
 
----
 
 ## 📫 Get in touch
 
