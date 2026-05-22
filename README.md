@@ -37,14 +37,6 @@ My projects include blockchain explorers, transaction trackers, support utilitie
 
 ---
 
-## 📜 Certifications
-
-- AWS Certified Solutions Architect – Associate
-- Google Data Analytics Professional Certificate
-
-
----
-
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencejablonski)
