@@ -2,7 +2,7 @@
 
 I'm a Technical Support Engineer at Consensys working on MetaMask, where I help troubleshoot complex Web3 issues and bridge the gap between users, support, and engineering.
 
-I build practical tools at the intersection of Web3 support, automation, and data analysis that make blockchain data easier to understand, including blockchain explorers, transaction trackers, support utilities, and workflow tools that help teams investigate issues more efficiently.
+I build practical tools at the intersection of Web3 support, automation, and data analysis that make blockchain data easier to understand. My projects include blockchain explorers, transaction trackers, support utilities, and workflow tools designed to help teams investigate issues more efficiently.
 
 
 ---
