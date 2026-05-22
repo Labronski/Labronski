@@ -13,7 +13,7 @@ My projects include blockchain explorers, transaction trackers, support utilitie
 
 | Project | Description |
 |--------|-------------|
-| [DoraScan](https://github.com/Labronski/dorascan) | Multi-chain blockchain explorer — look up wallet addresses and transaction hashes across networks from one interface. |
+| [DoraScan](https://github.com/Labronski/dorascan) | Multi-chain blockchain explorer: Find wallet addresses and transaction hashes across networks from one interface. |
 | [Bridge Aggregator](https://github.com/Labronski/bridge-aggregator) | Aggregates cross-chain bridge transaction data across providers into a single normalized investigation view. |
 | [Perpetuals Tracker](https://github.com/Labronski/perpetuals-tracker) | Tracks leveraged trading activity by wallet address via the Hyperliquid API. |
 | [Predictions Tracker](https://github.com/Labronski/predictions-tracker) | Tracks prediction market positions and trade history by wallet address via the Polymarket API. |
